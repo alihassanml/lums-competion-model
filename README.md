@@ -1,0 +1,1 @@
+# lums-competion-model
