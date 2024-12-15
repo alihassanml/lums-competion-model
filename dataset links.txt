@@ -1,0 +1,2 @@
+https://universe.roboflow.com/deep-learning-computer-vision-2lbld/signs-n3pju-zgvif-yhx1t
+https://universe.roboflow.com/david-lee-d0rhs/american-sign-language-letters/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
