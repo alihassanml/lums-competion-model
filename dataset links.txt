@@ -1,1 +1,2 @@
-https://www.kaggle.com/code/venkatahemanthg/gesture-control-for-smarttv-conv3d-rnn-lstm
+https://www.kaggle.com/code/venkatahemanthg/gesture-control-for-smarttv-conv3d-rnn-lstm   // notebook example 
+https://www.kaggle.com/datasets/imsparsh/gesture-recognition/data  // datasets link
