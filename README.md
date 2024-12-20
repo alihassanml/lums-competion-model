@@ -70,3 +70,6 @@ The Magic Band project is an innovative AI-powered solution developed for the AI
 
 The Magic Band project exemplifies the power of artificial intelligence in creating engaging and innovative solutions. By combining gesture recognition and audio processing, it offers a glimpse into the future of multi-modal AI applications. This project showcases not only technical expertise but also creativity and problem-solving in a competitive environment.
 
+**Download Links**
+![Drive Links](https://drive.google.com/drive/folders/12m5t94aTIZYNLO1qzbeNVljvcwUOLRq6?usp=sharing)
+
