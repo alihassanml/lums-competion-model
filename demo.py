@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2
 
-model = YOLO('best.onnx')
+model = YOLO('YOLOv10x_gestures.pt')
 cap = cv2.VideoCapture(0)
 
 while True:
